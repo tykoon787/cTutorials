@@ -1,18 +1,14 @@
 #include <stdio.h>
 
+typedef struct point point;
+struct point {
+   int    x;
+   int    y;
+};
+point p = {1, 2};
+
 int main(void)
 {
-	int n = 1; 
-	int sum = 0;
-
-	while (n < 1024)
-	{
-		if ((n % 3 == 0) || (n % 5 == 0))
-		{
-			sum = sum + n;
-		}
-	n++;
-	}
-	printf("%d\n", sum);
+	printf("p.y : %d p.x : %d \n", p.y, p.x);
 	return (0);
 }
