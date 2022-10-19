@@ -1,14 +1,18 @@
 #include <stdio.h>
 
-typedef struct point point;
-struct point {
-   int    x;
-   int    y;
-};
-point p = {1, 2};
+
+void print(int nb)
+{
+    printf("%d", nb);
+    -- nb;
+    if (nb > 0) 
+    {
+        print(nb);
+    }
+}
 
 int main(void)
 {
-	printf("p.y : %d p.x : %d \n", p.y, p.x);
-	return (0);
+    print(4);
+    return (0);
 }
