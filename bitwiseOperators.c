@@ -13,7 +13,7 @@ int main(){
 	/*The above function will print the result in its decimal form because 
 	 * we are using the '%d' identifier.
 	 *
-	 * The result if negative (-6) becuase the value of decimal 5 in base 2 (binary) 
+	 * The result is negative (-6) becuase the value of decimal 5 in base 2 (binary) 
 	 * is 1010
 	 *
 	 * Since int represents a 32 bit digit, the value of 5 to base 2 in its binary 

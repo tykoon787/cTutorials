@@ -10,7 +10,7 @@ int main(){
 	int i; 
 	unsigned int a = 5;
 	for (i = 0; i < 20; i++){
-		printf("5 When left shifted by %02d is %08x | %u\n", i, a << i, a << i);
+		printf("5 When left shifted by %02d byte(s) is %08x | %u\n", i, a << i, a << i);
 	}
 		
 	
