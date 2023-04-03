@@ -1,0 +1,415 @@
+1649749756655	geckodriver	INFO	Listening on 127.0.0.1:53615
+1649749759857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilemyV1Ce"
+1649749763694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilemyV1Ce\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53616/devtools/browser/209e064c-c6d8-4d7e-aa37-cd191fe5e77c
+1649749774745	Marionette	INFO	Listening on port 53649
+Read port: 53649
+1649749778956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649750691448	geckodriver	INFO	Listening on 127.0.0.1:54125
+1649750694484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilewlDXb4"
+1649750695692	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilewlDXb4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54126/devtools/browser/60dded1d-fcdd-40eb-9564-aa4b5e8bfd77
+1649750707948	Marionette	INFO	Listening on port 54158
+Read port: 54158
+1649750712786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649750778134	Marionette	INFO	Stopped listening on port 54158
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileXUe7xP"
+1649750754629	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileXUe7xP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54199/devtools/browser/1a3600dc-e568-4ec3-aecf-334a6799834a
+1649750766516	Marionette	INFO	Listening on port 54234
+Read port: 54234
+1649750770076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1649753393178	Marionette	INFO	Stopped listening on port 54234
+[Parent 19556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+tte	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileYEgGrh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54600/devtools/browser/25eb1eb0-8c91-4ea8-a2ed-36e4e6a0c9b7
+1649751449873	Marionette	INFO	Listening on port 54624
+1649751457386	Marionette	INFO	Stopped listening on port 54624
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: "Could not load engine amazondotcom@search.mozilla.org: Error: Unable to arm timer, the object has been finalized."
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+Read port: 54624
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  Message: Error: Data is not ready.
+  Stack:
+    get data@resource://gre/modules/JSONFile.jsm:186:13
+getListeners@resource://gre/modules/PushBroadcastService.jsm:66:5
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1649751483640	geckodriver	INFO	Listening on 127.0.0.1:54636
+1649751486654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileRIYgSd"
+1649751487863	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileRIYgSd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54637/devtools/browser/8ff42284-643c-4ab4-b06e-d64eae2db4c5
+1649751494542	Marionette	INFO	Listening on port 54659
+Read port: 54659
+1649751494905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1649751505997	Marionette	INFO	Stopped listening on port 54659
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649752911881	geckodriver	INFO	Listening on 127.0.0.1:54741
+1649752914999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilelDf1Fe"
+1649752916128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilelDf1Fe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54742/devtools/browser/f3479baf-3ca3-4f28-af2c-6edcbefb5c67
+1649752927099	Marionette	INFO	Listening on port 54765
+Read port: 54765
+1649752933314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1649753394041	Marionette	INFO	Stopped listening on port 54765
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilen8yKx7"
+1649753281528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilen8yKx7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54854/devtools/browser/d648e4a9-ffae-46fe-bcf0-73eda5436e8e
+1649753289340	Marionette	INFO	Listening on port 54878
+Read port: 54878
+1649753289735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649753395806	Marionette	INFO	Stopped listening on port 54878
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967298/domnode101, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transit1649754048329	Marionette	INFO	Stopped listening on port 54951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1649753831599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileNFhE4T"
+1649753833169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileNFhE4T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55072/devtools/browser/f5108895-82c1-4805-8912-01143770c411
+1649753841864	Marionette	INFO	Listening on port 55098
+Read port: 55098
+1649753843035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1649754297078	Marionette	INFO	Stopped listening on port 55098
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilenyyYjI"
+1649754263852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofilenyyYjI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55228/devtools/browser/63d4c384-706f-42ec-8c1a-722467c8c884
+1649754272648	Marionette	INFO	Listening on port 55250
+Read port: 55250
+1649754274300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649754826127	Marionette	INFO	Stopped listening on port 55250
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileh0uBux"
+1649754308544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileh0uBux\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55304/devtools/browser/c4ed3341-c68b-4a5d-8916-2910f3e6196c
+1649754314998	Marionette	INFO	Listening on port 55326
+Read port: 55326
+1649754316482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.metafilter.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1649754823610	Marionette	INFO	Stopped listening on port 55326
+[Parent 13712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+te-debugging-port" "55394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileyJrFTV"
+1649754559853	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileyJrFTV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55394/devtools/browser/4d749d98-4a0c-4c83-8442-e6f886ec9322
+1649754574092	Marionette	INFO	Listening on port 55419
+Read port: 55419
+1649754578811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1649754822704	Marionette	INFO	Stopped listening on port 55419
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649755194242	geckodriver	INFO	Listening on 127.0.0.1:55565
+1649755197287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55566" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileZQbigt"
+1649755199147	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileZQbigt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55566/devtools/browser/1429fc73-a2ee-4c64-8020-644c70ef5a47
+1649755206566	Marionette	INFO	Listening on port 55590
+Read port: 55590
+1649755207455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 4917 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5001 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 3614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6133 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+e@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6133 > eval line 1 > eval line 1 > eval:1:37
+Ge@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6133 > eval line 1 > eval line 1 > eval:1:54
+@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6133 > eval line 1 > eval line 1 > eval:1:55
+RA@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6133 > eval line 1 > eval line 1 > eval:1:198
+yR@https://pagead2.googlesyndi1649755579009	Marionette	INFO	Stopped listening on port 58278
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval:6133:34170
+LT<@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval:6133:30856
+oA@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval:6133:34517
+XV<@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval:6133:34916
+oA/<@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval:6133:34587
+dj</<@https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval:6133:23222
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6887 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: moz-extension://e9d8e00f-0fe6-4beb-8839-58efdfe0fd54/background.js, line 0: Successfully compiled asm.js code (total compilation time 66ms)
+JavaScript warning: moz-extension://e9d8e00f-0fe6-4beb-8839-58efdfe0fd54/background.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 619: TypeError: context.contentWindow is null
+1649755906302	Marionette	INFO	Stopped listening on port 55590
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ileYhszxs"
+1649755634768	Marionette	INFO	Marionette enabled
+1649755672830	geckodriver	INFO	Listening on 127.0.0.1:64367
+1649755675926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileFxJOUa"
+1649755676990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileFxJOUa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64368/devtools/browser/4981515f-0024-41b8-bd3c-2e2781e0cf06
+1649755687275	Marionette	INFO	Listening on port 64392
+Read port: 64392
+1649755689663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7336 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 2807 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 1184 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6349 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 7661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 5024 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6466 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Failed to add session data entry for frame targets in browsing context" 2147483716
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 2147483716
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 2147483716
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 2147483716
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2096: TypeError: currentPanel is undefined
+console.error: "Unable to find target with innerWindowId:2147483771"
+console.error: "Unable to find target with innerWindowId:2147483771"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: this._hoveredNode is null
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: this._hoveredNode is null
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: this._hoveredNode is null
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: this._hoveredNode is null
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: this._hoveredNode is null
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+JavaScript error: resource://devtools/server/actors/inspector/node-picker.js, line 274: TypeError: null has no properties
+console.error: "Unable to find target with innerWindowId:2147483811"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/6DGELVyRstON4LmPFAMeAOP1baW3TqSdWCO5xyb3u9s.js line 1 > eval line 6772 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:2147483828"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649755876037	geckodriver	INFO	Listening on 127.0.0.1:58871
+1649755879151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileNDxHhq"
+1649755881139	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Oduor\\AppData\\Local\\Temp\\rust_mozprofileNDxHhq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58872/devtools/browser/498b12e9-2267-4ab1-a456-af72611d178f
+1649755897974	Marionette	INFO	Listening on port 58896
+Read port: 58896
+1649755901997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://api.fouanalytics.com/s/pp.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1649755934059	Marionette	INFO	Stopped listening on port 58896
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+

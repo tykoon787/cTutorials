@@ -68,4 +68,7 @@ class Reptile(Animal):
 
 def main():
 	animal1 = Animal("Born Alive", "Has hair and fur", "Warm-blooded")
-	print(animal1)
+	print(animal1.appearance)
+	print(animal1.birthType)
+	print(animal1.blooded)
+	print(animal1.__str__())

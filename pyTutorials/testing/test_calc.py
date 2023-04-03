@@ -23,6 +23,8 @@ class TestCalc(unittest.TestCase):
         self.assertEqual(calc.divide(10, 5), 2)
         self.assertEqual(calc.divide(-1, 1), -1)
         self.assertEqual(calc.divide(-1, -1), 1)
+        
+        # Using the Context Manager to test Raising Exceptions
         with self.assertRaises(ValueError):
             calc.divide(10, 0)
         

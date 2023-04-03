@@ -1,0 +1,1 @@
+This is a New File i have created using the write 'w' and append 'a' operands 
