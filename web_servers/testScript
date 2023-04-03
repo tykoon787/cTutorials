@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# Test script
+
+
+new_string="\\\trewrite ^/redirect_me https://www.youtube.com/watch?v=QH2-TGUlwu4 permanent;"
+# sed -i.bak '/server_name _;/a \'"$newstring"'' config_cp
+# sed -i "/^ *server {/a $new_string" config_cp
+# sed -i '/^ *server {/,/^ *}/ {/^ *location \/ {/,/^ *}/a '$new_string'}' config_cp
+# sed -i s'location \/ {/a \ \\\t location \/redirect_me {\n \\\t return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4; \n}' config_cp
+# sed -i "53i $new_string" config_cp
+
+# This sed command below works like a charm
+sed -i '/server_name _;/a\    location \/redirect_me {\n          return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4; \n    }' config_cp
+sed -i '/server_name _;/a\\t location \/error_me {\n\t this day\n\t}' config_cp
+"\\\terror_page 404 /404.html;\n\tlocation = /404.html {\n\t\troot /var/www/html;\n\t\tinternal;\n\t}"
+sed -i '/server_name _;/a\\terror_page 404 /404.html;\n\tlocation = /404.html {\n\t\troot /var/www/html;\n\t\tinternal;\n\t}' config_cp
+sed -i '/server_name _;/a\\tlocation \/redirect_me {\n\t\treturn 301 https://www.youtube.com/watch?v=QH2-TGUlwu4; \n\t}' config_cp
+
