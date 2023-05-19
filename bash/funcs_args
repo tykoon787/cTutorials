@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# Practicing the use of functions and params
+DEFAULT=default
+
+func2() {
+    if [ -z "$1" ]
+    then
+        echo "Parameter #1 is zero length-"
+    else
+        echo "-Parameter #1 is \"$1\"-"
+    fi
+
+    variable=${1-$DEFAULT}
+    echo "Variable = $variable"
+
+    if [ "$2" ]
+    then
+        echo "-Parameter #2 is \"$2\".-"
+    fi
+
+    return 0
+}
